@@ -15,4 +15,4 @@ Mermaid source: [public-private-boundary.mmd](../assets/diagrams/public-private-
 
 ## Operating Shape
 
-Fantasia observes local work, recommends movement, routes work through review lanes, and records receipts. Public materials describe that operating shape without publishing the private engine. The GitHub repository carries the protected public surface, while the FaithCheltenham.com draft carries the public project-page story.
+F@ntas1@ observes local work, recommends movement, routes work through review lanes, and records receipts. Public materials describe that operating shape without publishing the private engine. The GitHub repository carries the protected public surface, while the FaithCheltenham.com draft carries the public project-page story.

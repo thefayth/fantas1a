@@ -4,13 +4,13 @@
 ## Target
 
 - Repository: https://github.com/thefayth/fantasia
-- Public page: https://faithcheltenham.com/projects/fantasia/
+- Public page: https://faithcheltenham.com/projects/fntas1a/
 - Export folder: _github_public_export
-- Publish clone: _github_public_publish/fantasia
+- Publish clone: local publish clone
 
 ## Current Local State
 
-The public package is generated locally from tools/fantasia/build-github-public-export.mjs. A publish clone is used so the existing GitHub repository history can receive a normal forward commit instead of a force push.
+The public package is generated locally from the private workspace export generator. A publish clone is used so the existing GitHub repository history can receive a normal forward commit instead of a force push.
 
 ## Publishing Status
 
@@ -18,7 +18,7 @@ GitHub authentication was repaired and the public package was pushed to the exis
 
 ## Safe Push Path For Future Refreshes
 
-1. Open a shell in _github_public_publish/fantasia.
+1. Open a shell in the local publish clone.
 2. Confirm git status is clean except for the intended public-surface commit.
 3. Confirm the remote is https://github.com/thefayth/fantasia.
 4. Run a secret scan against the publish clone.
@@ -27,7 +27,7 @@ GitHub authentication was repaired and the public package was pushed to the exis
 
 ## Do Not Push
 
-- tools/fantasia/private
+- private tool state directories
 - bus queue files
 - telemetry/state logs
 - raw coursework

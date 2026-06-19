@@ -1,7 +1,7 @@
 
 # Product Surface Map
 
-This map helps a GitHub visitor understand what parts of Fantasia exist without exposing the private system.
+This map helps a GitHub visitor understand what parts of F@ntas1@ exist without exposing the private system.
 
 | Surface | Visitor sees | Faith keeps private |
 | --- | --- | --- |

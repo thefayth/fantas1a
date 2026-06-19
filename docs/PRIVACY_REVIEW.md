@@ -3,9 +3,9 @@
 
 ## Files Inspected
 
-- projects/fantasia public project docs
-- tools/fantasia public README and architecture notes
-- apps/fantasia-desktop public brand assets
+- private project continuity docs
+- private tool README and architecture notes
+- private desktop public brand assets
 - public GitHub reference page
 - attached GitHubify brief
 
@@ -15,7 +15,7 @@ The private workspace contains source code, queues, telemetry, release receipts,
 
 ## Files Excluded
 
-- tools/fantasia/private/**
+- private tool state directories
 - bus/*.queue.jsonl
 - private telemetry/state logs
 - raw Pepperdine coursework or receipts
@@ -26,9 +26,9 @@ The private workspace contains source code, queues, telemetry, release receipts,
 
 ## Public-Safe Claims
 
-- Fantasia is local-first.
-- Fantasia is a functional local v1.
-- Fantasia has desktop, operator, OpenClaw, GitTools, and receipt concepts.
+- F@ntas1@ is local-first.
+- F@ntas1@ is a functional local v1.
+- F@ntas1@ has desktop, operator, OpenClaw, GitTools, and receipt concepts.
 - Public repository is a protected surface, not a source release.
 
 ## Claims Avoided

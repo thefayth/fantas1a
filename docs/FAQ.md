@@ -1,7 +1,7 @@
 
 # FAQ
 
-## Is Fantasia open source?
+## Is F@ntas1@ open source?
 
 No. This repository is a public project surface, not a source release.
 
@@ -9,11 +9,11 @@ No. This repository is a public project surface, not a source release.
 
 No code license is granted. Commercial or technical access requires written permission.
 
-## Does Fantasia expose private systems?
+## Does F@ntas1@ expose private systems?
 
 No. The public package excludes private source, queues, telemetry, credentials, raw coursework, private archives, and operational infrastructure.
 
-## Is Fantasia local-first?
+## Is F@ntas1@ local-first?
 
 Yes. The product is designed around local control, loopback/private access, audit receipts, and explicit authority for higher-risk actions.
 

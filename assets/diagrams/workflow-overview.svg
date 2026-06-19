@@ -1,7 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="640" viewBox="0 0 1400 640" role="img" aria-labelledby="title desc">
-  <title id="title">Fantasia workflow overview</title>
-  <desc id="desc">Workflow from phone or desktop intake through Fantasia recommendations, review, local workers, receipts, GitHub, and FaithCheltenham.com.</desc>
+  <title id="title">F@ntas1@ workflow overview</title>
+  <desc id="desc">Workflow from phone or desktop intake through F@ntas1@ recommendations, review, local workers, receipts, GitHub, and FaithCheltenham.com.</desc>
   <rect width="1400" height="640" fill="#ffffff"/>
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
@@ -9,7 +9,7 @@
       <stop offset="1" stop-color="#A3E635"/>
     </linearGradient>
   </defs>
-  <text x="70" y="86" fill="#351066" font-family="Arial, sans-serif" font-size="44" font-weight="700">Fantasia Workflow</text>
+  <text x="70" y="86" fill="#351066" font-family="Arial, sans-serif" font-size="44" font-weight="700">F@ntas1@ Workflow</text>
   <text x="72" y="128" fill="#4B5563" font-family="Arial, sans-serif" font-size="22">Observe worksite, recommend action, review authority, route local work, record receipts.</text>
   <g font-family="Arial, sans-serif" font-size="18" font-weight="700">
     <rect x="70" y="230" rx="18" width="170" height="96" fill="#F5F3FF" stroke="#5B21B6" stroke-width="3"/>
@@ -17,7 +17,7 @@
     <rect x="290" y="230" rx="18" width="170" height="96" fill="#F7FEE7" stroke="#84CC16" stroke-width="3"/>
     <text x="344" y="275" fill="#365314">Intake</text><text x="326" y="301" fill="#365314">OpenClaw</text>
     <rect x="510" y="230" rx="18" width="170" height="96" fill="#F5F3FF" stroke="#5B21B6" stroke-width="3"/>
-    <text x="548" y="286" fill="#351066">Fantasia</text>
+    <text x="548" y="286" fill="#351066">F@ntas1@</text>
     <rect x="730" y="230" rx="18" width="170" height="96" fill="#F7FEE7" stroke="#84CC16" stroke-width="3"/>
     <text x="768" y="275" fill="#365314">Review +</text><text x="777" y="301" fill="#365314">Lease</text>
     <rect x="950" y="230" rx="18" width="170" height="96" fill="#F5F3FF" stroke="#5B21B6" stroke-width="3"/>

@@ -24,4 +24,4 @@
 
 ## Boundary Rule
 
-Public materials may describe what Fantasia does and why it matters. They must not expose how the private engine operates at an implementation level that compromises ownership, security, privacy, or leverage.
+Public materials may describe what F@ntas1@ does and why it matters. They must not expose how the private engine operates at an implementation level that compromises ownership, security, privacy, or leverage.

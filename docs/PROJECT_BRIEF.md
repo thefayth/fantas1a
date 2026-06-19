@@ -1,11 +1,11 @@
 
 # Project Brief
 
-Fantasia is a local-first AI operations manager for Faith's laptop, phone lane, and broader project ecosystem. It is designed to conduct agent work the way a strong operator conducts a team: observe current traffic, recommend the next move, route work to the right lane, demand receipts, and keep high-impact authority with Faith.
+F@ntas1@ is a local-first AI operations manager for Faith's laptop, phone lane, and broader project ecosystem. It is designed to conduct agent work the way a strong operator conducts a team: observe current traffic, recommend the next move, route work to the right lane, demand receipts, and keep high-impact authority with Faith.
 
 ## Core Promise
 
-Fantasia helps make AI work legible, reversible, and owned.
+F@ntas1@ helps make AI work legible, reversible, and owned.
 
 ## Core Product Ideas
 

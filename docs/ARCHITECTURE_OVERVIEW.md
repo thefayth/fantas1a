@@ -1,12 +1,12 @@
 
 # Architecture Overview
 
-Fantasia is designed as a conductor rather than an uncontrolled autonomous agent. The public architecture is intentionally high level.
+F@ntas1@ is designed as a conductor rather than an uncontrolled autonomous agent. The public architecture is intentionally high level.
 
 ## Operating Layers
 
 1. Intake layer: desktop task entry, OpenClaw phone lane, local queues, and project signals.
-2. Conductor layer: Fantasia classifies work, checks boundaries, builds recommendations, and selects a lane.
+2. Conductor layer: F@ntas1@ classifies work, checks boundaries, builds recommendations, and selects a lane.
 3. Authority layer: scoped session leases, pause/revoke controls, and high-impact blocks.
 4. Worker layer: AI Desk packets, local workers, GitTools, browser checks, Tool Doctor, and approved free tools.
 5. Receipt layer: review packets, audit summaries, rollback notes, release readiness, and public-safe status.
@@ -23,7 +23,7 @@ Fantasia is designed as a conductor rather than an uncontrolled autonomous agent
 
 ## Codex-Optional Shape
 
-Fantasia can operate in a Codex-assisted mode or a standalone operator mode. Public docs may describe both, but the private implementation, local queues, receipts, and worker code stay excluded.
+F@ntas1@ can operate in a Codex-assisted mode or a standalone operator mode. Public docs may describe both, but the private implementation, local queues, receipts, and worker code stay excluded.
 
 ## Phone Support Shape
 

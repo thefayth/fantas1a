@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
-  <title id="title">Fantasia project icon</title>
-  <desc id="desc">A public-safe Fantasia icon with an F inside a rose command seal.</desc>
-  <rect width="512" height="512" rx="72" fill="#171414"/>
-  <rect x="96" y="96" width="320" height="320" rx="38" fill="#7b2638" stroke="#b68b4a" stroke-width="10"/>
-  <rect x="120" y="120" width="272" height="272" rx="26" fill="none" stroke="#fffdf8" stroke-opacity=".18" stroke-width="12"/>
-  <text x="256" y="330" text-anchor="middle" fill="#fffdf8" font-family="Georgia, serif" font-size="210" font-weight="700">F</text>
-</svg>

@@ -1,15 +1,15 @@
 
-# Fantasia Status
+# F@ntas1@ Status
 
-- Project name: Fantasia
-- Base slug: fantasia
-- Chosen repository slug: fantasia
+- Project name: F@ntas1@
+- Base slug: fntas1a
+- Chosen repository slug: fntas1a
 - Repository URL: https://github.com/thefayth/fantasia
 - Version status: existing public repository refresh, not a new v2 repository
 - Public surface status: refreshed locally and published to GitHub after auth repair
 - Private engine status: excluded from this export
-- GitHub push status: published by normal forward commit from _github_public_publish/fantasia
-- Last local export update: 2026-06-19T04:24:51.786Z
+- GitHub push status: published by normal forward commit from the local publish clone
+- Last local export update: 2026-06-19T04:42:03.249Z
 
 ## Current Product Representation
 

@@ -1,7 +1,7 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1400" height="760" viewBox="0 0 1400 760" role="img" aria-labelledby="title desc">
-  <title id="title">Fantasia public private boundary</title>
-  <desc id="desc">Boundary between public GitHub materials and the private local Fantasia engine.</desc>
+  <title id="title">F@ntas1@ public private boundary</title>
+  <desc id="desc">Boundary between public GitHub materials and the private local F@ntas1@ engine.</desc>
   <rect width="1400" height="760" fill="#ffffff"/>
   <text x="70" y="82" fill="#351066" font-family="Arial, sans-serif" font-size="44" font-weight="700">Public / Private Boundary</text>
   <rect x="70" y="150" width="560" height="470" rx="24" fill="#F7FEE7" stroke="#84CC16" stroke-width="4"/>

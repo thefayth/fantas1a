@@ -3,7 +3,7 @@
 
 Please do not report secrets, credentials, private files, or local infrastructure details in public issues.
 
-Fantasia's public posture:
+F@ntas1@'s public posture:
 
 - no public dashboard exposure by default
 - no credentials in public docs

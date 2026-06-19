@@ -1,19 +1,19 @@
 
-# Fantasia
+# F@ntas1@
 
 ## Hero
 
-Fantasia is a local-first AI operations conductor for managing agents, work queues, phone handoffs, local services, and creative automation with receipts and authority boundaries.
+F@ntas1@ is a local-first AI operations conductor for managing agents, work queues, phone handoffs, local services, and creative automation with receipts and authority boundaries.
 
 Featured image: assets/hero/hero-image.png
 
 ## What This Project Is
 
-Fantasia is a desktop-centered operations manager for AI work. It helps Faith coordinate local workers, review packets, OpenClaw phone commands, GitTools, and project traffic without exposing private systems.
+F@ntas1@ is a desktop-centered operations manager for AI work. It helps Faith coordinate local workers, review packets, OpenClaw phone commands, GitTools, and project traffic without exposing private systems.
 
 ## Why It Matters
 
-AI work gets risky when agents act without context, receipts, or clear authority. Fantasia turns that chaos into visible workflow: observe, recommend, route, verify, and archive.
+AI work gets risky when agents act without context, receipts, or clear authority. F@ntas1@ turns that chaos into visible workflow: observe, recommend, route, verify, and archive.
 
 ## How It Works
 
@@ -52,11 +52,11 @@ Source code, private queues, telemetry, raw receipts, credentials, private archi
 
 ## Relationship To Faith's Ecosystem
 
-Fantasia is the conductor layer for Faith's local AI command center and connected projects. It helps keep work visible, reversible, and owned.
+F@ntas1@ is the conductor layer for Faith's local AI command center and connected projects. It helps keep work visible, reversible, and owned.
 
 ## Ownership Statement
 
-Fantasia is owned by Faith Cheltenham / XXYYZZ Society LLC. All rights reserved.
+F@ntas1@ is owned by Faith Cheltenham / XXYYZZ Society LLC. All rights reserved.
 
 ## Learn More
 

@@ -1,7 +1,7 @@
 
-# Fantasia Feature Matrix
+# F@ntas1@ Feature Matrix
 
-This matrix represents the full Fantasia product without publishing the private engine.
+This matrix represents the full F@ntas1@ product without publishing the private engine.
 
 | Product area | What GitHub may say | Current local v1 status | Public-safe evidence |
 | --- | --- | --- | --- |
@@ -13,8 +13,8 @@ This matrix represents the full Fantasia product without publishing the private 
 | Tool Doctor | Readiness checks for free/local tools | Implemented locally | Public status and demo script |
 | OpenClaw phone lane | Private mobile/control lane that returns packets | Implemented locally when gateway is available | Workflow diagram and handoff language |
 | AI Desk | Non-mutating research, docs, QA, and handoff packet lane | Implemented locally | Public workflow docs |
-| MCP bridge | Local stdio bridge so Codex can call Fantasia | Implemented locally | Architecture overview |
-| Standalone mode | Use Fantasia without Codex or ChatGPT runtime dependency | Implemented locally | Status docs and demo script |
+| MCP bridge | Local stdio bridge so Codex can call F@ntas1@ | Implemented locally | Architecture overview |
+| Standalone mode | Use F@ntas1@ without Codex or ChatGPT runtime dependency | Implemented locally | Status docs and demo script |
 | Management kernel | Pepperdine-informed leadership and management reasoning | Derived locally | Project brief and privacy review |
 | Adult creator/business support | Consensual adult creative/business work is allowed in scoped local projects | Policy represented locally | This matrix and status docs |
 | Release readiness | Local manifest, privacy review, and public export checks | Implemented locally | Launch checklist, receipt, manifest |
