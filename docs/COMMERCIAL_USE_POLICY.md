@@ -4,6 +4,12 @@
 
 Keep Fantasia core proprietary while the product, installer, FVE integration, COAI publishing, and customer workflows are still being shaped. Use the public GitHub repository as a polished product surface, not as a full source release.
 
+Commercial entity: `XXYYZZ Society LLC`
+
+Creator/founder: `Faith Cheltenham`
+
+Brand/product layer: `Fantasia`, `TheFAYTH`, and FVE.
+
 ## Business Model Paths
 
 - Desktop Pro License: paid local desktop app for builders and operators.
@@ -40,7 +46,7 @@ Keep private:
 | FVE publish adapters | Proprietary / private |
 | COAI production workflow | Proprietary / guarded |
 | Public docs | All rights reserved unless a specific file says otherwise |
-| Brand kit and marks | TheFAYTH/Fantasia brand assets reserved |
+| Brand kit and marks | XXYYZZ Society LLC / TheFAYTH / Fantasia brand assets reserved |
 | Low-risk SDK/helpers later | Consider Apache-2.0 after review |
 | Third-party dependencies | Follow their own licenses |
 
@@ -54,7 +60,7 @@ Before selling a paid license or pilot, prepare:
 - Data handling and privacy language.
 - No credential sharing in tickets or chat.
 - No guarantee of platform acceptance, ad approval, SEO result, or social account outcome.
-- Ownership of customer content versus TheFAYTH tooling.
+- Ownership of customer content versus XXYYZZ Society LLC / TheFAYTH tooling.
 - Termination, refund, and export terms.
 
 ## Investor / Partner Sharing
