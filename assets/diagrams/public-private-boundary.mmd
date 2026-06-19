@@ -1,9 +1,20 @@
-flowchart LR
-  A["Public Repo"] --> B["Project Story"]
-  A --> C["Workflow Diagrams"]
-  A --> D["Safe Screenshots"]
-  A --> E["Ownership Docs"]
-  F["Private Engine"] --> G["Source Code"]
-  F --> H["Prompts and Agents"]
-  F --> I["Credentials and Adapters"]
-  F --> J["Customer and Operational Data"]
+
+flowchart TB
+  subgraph Public["Public GitHub / FaithCheltenham.com"]
+    Readme["README, brief, status"]
+    Visuals["Hero, banner, social card, workflow diagrams"]
+    Policy["All Rights Reserved, privacy, commercial use policy"]
+    Wordpress["WordPress page draft"]
+  end
+
+  subgraph Private["Private local engine"]
+    Source["Desktop source, MCP, worker code"]
+    Queues["Queues, telemetry, receipts, leases"]
+    Coursework["Pepperdine source material"]
+    Secrets["Credentials, tokens, private systems"]
+  end
+
+  Source -->|summarized only| Readme
+  Queues -->|non-secret status only| Readme
+  Coursework -->|derived framework only| Policy
+  Secrets -. never exported .-> Public

@@ -1,94 +1,88 @@
+
+![Fantasia hero](assets/hero/hero-image.png)
+
 # Fantasia
 
-**Local-first AI operations desktop for safe creative automation.**
+Local-first AI operations desktop for safe creative automation and accountable agent work.
 
-Fantasia is a desktop control room for builders who want AI tools to operate with receipts, rollback, and clear authority boundaries. It coordinates local services, operator queues, Codex/OpenClaw handoffs, FVE visual-engine workflows, and COAI / WordPress publish-readiness checks without turning every action into an unsafe live write.
+> This repository is a protected public project surface. It is not the full source code, operational system, private workflow, or data room.
 
-## What It Does
+![Fantasia banner](assets/banners/github-banner.png)
 
-- Starts scoped local work sessions.
-- Shows local service and queue state.
-- Routes handoffs between Faith, Codex, OpenClaw, and local operator lanes.
-- Provides an FVE Workbench for image-review and website-change prep.
-- Checks COAI / WordPress readiness while redacting credentials.
-- Records checkpoints, task packets, verification runs, patch receipts, and rollback paths.
+## What Is This?
 
-## Why It Exists
+Fantasia is Faith Cheltenham's local-first AI operations conductor. It helps a builder manage local, cloud-adjacent, and phone-connected AI workflows with receipts, authority boundaries, rollback thinking, and clear public/private separation.
 
-AI work is becoming too important to live only in chat windows. Builders need a place where AI can help operate real workflows while preserving privacy, authorship, and production safety.
+The working private system coordinates a desktop app, local worksite analysis, AI Desk packets, OpenClaw phone handoffs, Codex-assisted and Codex-optional operator flows, GitTools readiness, and local worker lanes. This repository presents the public story, workflow, status, visuals, and ownership posture without releasing the private engine.
 
-Fantasia is built around a simple rule:
+## Why It Matters
 
-> AI can move faster when the system has memory, receipts, and brakes.
+Most agent stacks blur control, authorship, and risk. Fantasia is designed around a different operating model:
 
-## First Use Case: FVE Website Visual Operations
+- local-first before cloud-first
+- public surface, private engine
+- receipts before claims
+- explicit authority before action
+- reversible local work before remote mutation
+- Faith-owned strategy, memory, and IP
 
-Fantasia's first focused workflow is helping operate the FAŸTH Visual Engine:
+## Who It Is For
 
-- review live website images
-- keep passing images in place
-- find weak, repeated, broken, generic, or line-drawn assets
-- prepare replacements
-- map candidates to target slots
-- check COAI / WordPress publish readiness
-- keep production publish guarded until rollback, target slots, typed slug, and production status are clean
+Fantasia is for builders, operators, founders, creative technologists, and small teams who want AI agents to help manage work without giving them uncontrolled access to production systems, credentials, private archives, or public publishing channels.
 
-Fantasia does not bypass FVE. FVE remains the source of truth for visual decisions and guarded publishing.
+## How It Works
 
-## Safety Model
+![Workflow overview](assets/diagrams/workflow-overview.svg)
 
-Fantasia is local-first by default:
+1. Work enters from a desktop cockpit, local queue, or private phone lane.
+2. Fantasia reads approved local state and creates a recommendation or packet.
+3. Low-risk work can move through an Operator Inbox, Dev Queue, AI Desk review, or Codex-assisted lane.
+4. Local workers and GitTools operate only under scoped authority.
+5. Every meaningful action returns as a review packet, audit receipt, or rollback note.
+6. High-impact work remains blocked until Faith explicitly approves it.
 
-- no direct WordPress publish from Fantasia
-- no credential values in UI logs
-- no DNS/auth/plugin changes by default
-- no social posting without approval
-- no public dashboard exposure by default
-- no hidden cloud telemetry
-- no production writes without a specific guarded adapter
+## What Is Public
+
+- Product description and positioning
+- Workflow diagrams and public/private boundary
+- Brand visuals and launch-gallery assets
+- Status, roadmap, FAQ, and WordPress page draft
+- Ownership, security, and commercial-use policy
+
+## What Remains Private
+
+![Public private boundary](assets/diagrams/public-private-boundary.svg)
+
+- Desktop source code and private local adapters
+- Raw queues, telemetry logs, leases, screenshots, and receipts
+- Credentials, tokens, local configuration, deployment systems, and signing material
+- Private Pepperdine coursework and raw student materials
+- Customer, family, medical, legal, benefits, and unpublished creative files
+- Private project workspaces and operational infrastructure
 
 ## Current Status
 
-Fantasia is in local preview. The current docs and deck describe the working product direction and investor story. Public launch should happen private-first after a final secret scan, private-path scan, and release review.
+Fantasia is a functional local v1 and protected public project surface. The current local product includes a desktop app, MCP bridge, Operator Inbox, Dev Queue, Tool Doctor, GitTools visibility, OpenClaw loopback posture, local Qwen/Ollama route, and release-readiness checks. The public GitHub repository is intentionally docs-first.
 
-## License and Commercial Use
+## Visual Gallery
 
-Fantasia core is proprietary commercial software owned/licensed through XXYYZZ Society LLC. The public repository is a docs-first product surface for review, investor diligence, and evaluation; it is not an open-source release of the desktop app, FVE adapters, COAI publishing workflow, or private automation system.
+| Asset | Purpose |
+| --- | --- |
+| ![Social card](assets/social/social-card.png) | Public social preview |
+| ![Project icon](assets/icons/project-icon.png) | App/project identity |
+| ![Magic hand](assets/gallery/magic-hand-icon-source.png) | Fantasy operator icon concept |
 
-Commercial use requires written permission or a signed license from XXYYZZ Society LLC.
+## Learn More
 
-Creator/founder: Faith Cheltenham.
-
-No public license is granted. No training use, redistribution, commercial reuse, hosting, sublicensing, reverse engineering, or implied permission is granted.
-
-## Start Here
-
-- [Launch README](README_LAUNCH.md)
 - [Project Brief](docs/PROJECT_BRIEF.md)
-- [Product Screenshots](docs/PRODUCT_SCREENSHOTS.md)
-- [Workflow Maps](docs/WORKFLOW_MAPS.md)
-- [Commercial Use Policy](docs/COMMERCIAL_USE_POLICY.md)
+- [Status](docs/STATUS.md)
+- [Roadmap](docs/ROADMAP.md)
 - [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
-- [GitHub Links](docs/GITHUB_LINKS.md)
+- [Workflow Diagrams](docs/WORKFLOW_DIAGRAMS.md)
+- [WordPress Page Draft](wordpress/page.md)
 
-## Investor Share Pack
+Public web destination draft: [FaithCheltenham.com/projects/fantasia](https://faithcheltenham.com/projects/fantasia/)
 
-- [Fantasia Investor Pack Folder](https://drive.google.com/drive/folders/1U1Y4DqxW28w3nV1hJwACnqExh8ALKL_Z)
-- [Updated Investor Pack Zip](https://drive.google.com/file/d/1-JutItFU37CcTG6TlfekBij_3zjaD20y/view?usp=drivesdk)
-- [Pitch Deck HTML Preview](https://drive.google.com/file/d/1Dd4AbA1hH9l0gUlP8pts_0umWx3JdZi3/view?usp=drivesdk)
-- [Brand Board HTML Preview](https://drive.google.com/file/d/1FTcDc_bMEkuA8MdaF9lBWZRDoejlo4MB/view?usp=drivesdk)
-- [FaithCheltenham WordPress Demo HTML Preview](https://drive.google.com/file/d/1HuvAF0A0bjvXE4_B8hIciLwopLoe7x1j/view?usp=drivesdk)
+## Ownership
 
-Drive upload succeeded. General sharing may still need to be turned on in Google Drive UI if investors are outside the account's permitted domain.
-
-## Keep Private
-
-- Fantasia core source
-- FVE production adapters
-- COAI credentials or WordPress credentials
-- code-signing materials
-- private receipts, queue state, rollback snapshots, and customer/project data
-
-## Investor Story
-
-Fantasia is not another AI chat app. It is an operations layer for owner-controlled AI work: a desktop cockpit that helps practical automation become inspectable, reversible, and commercially usable.
+Fantasia is owned by Faith Cheltenham / XXYYZZ Society LLC. All rights reserved. No source release is granted by this repository. No redistribution, training, commercial use, sublicensing, or implied permission is granted.

@@ -1,32 +1,18 @@
+
 # Brand Style Notes
 
-## Brand Position
+## Visual Direction
 
-Fantasia is a premium local-first AI operations desktop under XXYYZZ Society LLC and TheFAYTH ecosystem.
+- Base: white
+- Primary: royal purple
+- Accent: lime
+- Mood: strategic, magical, human, decisive
+- Personality: conductor, operator, local-first command room
 
-## Visual Personality
+## Image System
 
-- Private command room.
-- Receipt-backed.
-- Calm, serious, and magical without being childish.
-- Founder-grade and investor-readable.
-- Warm operator, sharp strategist.
+Use the existing fantasy conductor image as the hero. Use the magic hand icon as the app-icon family. Use launch slides as public gallery/supporting visuals.
 
-## Palette
+## Typography Direction
 
-- Command Charcoal: `#171414`
-- Porcelain Paper: `#FFFDF8`
-- Warm Linen: `#F3EADF`
-- Seal Rose: `#7B2638`
-- Deep Rose: `#5E1E2D`
-- Antique Brass: `#B68B4A`
-- Verification Emerald: `#2F7A5F`
-- Muted Umber: `#615B55`
-- Linen Border: `#DDCFC0`
-
-## Design Rules
-
-- Use real screenshots when showing the product.
-- Use diagrams only for workflows.
-- Avoid generic SaaS gradients, cute mascot language, stock robot imagery, fake dashboards, and hype-first AI visuals.
-- Keep public visuals mature, legible, and IP-safe.
+Use clear, high-contrast sans-serif typography. Keep copy direct, warm, and operational.

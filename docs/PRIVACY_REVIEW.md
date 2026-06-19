@@ -1,67 +1,47 @@
+
 # Privacy Review
 
-Status: `READY AFTER FAITH REVIEW`
+## Files Inspected
 
-## Files / Surfaces Inspected
+- projects/fantasia public project docs
+- tools/fantasia public README and architecture notes
+- apps/fantasia-desktop public brand assets
+- public GitHub reference page
+- attached GitHubify brief
 
-Categories inspected:
+## Sensitive Categories Found
 
-- local Fantasia documentation pack
-- public GitHub README/docs
-- desktop screenshot artifacts
-- brand board and investor deck documents
-- FaithCheltenham demo page draft
-- public link manifest and receipts
+The private workspace contains source code, queues, telemetry, release receipts, private state, raw coursework references, and operational docs. These are not copied into the export.
 
-## Sensitive Categories Protected
+## Files Excluded
 
-The public repo should not include:
-
+- tools/fantasia/private/**
+- bus/*.queue.jsonl
+- private telemetry/state logs
+- raw Pepperdine coursework or receipts
 - source code
-- prompts
-- agent instructions
-- credentials
-- secrets
-- private workflows
-- unpublished creative works
-- customer data
-- legal/admin records
-- medical records
-- family information
-- deployment systems
-- operational infrastructure
-
-## Files Excluded From Public Source Release
-
-- Fantasia core source.
-- FVE production adapters.
-- COAI publishing internals.
-- private receipts and queue state.
-- credential/config files.
-- code-signing materials.
-- screenshots with private windows or personal information.
+- local executable package
+- private deployment and credential material
+- private project workspaces
 
 ## Public-Safe Claims
 
 - Fantasia is local-first.
-- Fantasia is documentation/public-surface ready.
-- Fantasia supports FVE website visual operations.
-- Publishing is guarded.
-- Core remains private/proprietary.
-- Commercial ownership routes through XXYYZZ Society LLC.
+- Fantasia is a functional local v1.
+- Fantasia has desktop, operator, OpenClaw, GitTools, and receipt concepts.
+- Public repository is a protected surface, not a source release.
 
 ## Claims Avoided
 
-- No claim of full source release.
-- No claim of live WordPress publishing from the public repo.
-- No claim of legal notarization.
-- No claim that private engine internals are public.
-- No claim that Drive sharing is fully public until Faith confirms settings.
+- No claim of open-source release.
+- No claim that phone authority is globally active.
+- No claim of production deployment.
+- No claim of public dashboard exposure.
 
 ## Image Safety
 
-Use real screenshots only when they reflect the current product. Use diagrams only as diagrams. Avoid fake product screens.
+Selected visuals are public-safe brand/product assets. No credential or private dashboard screenshots are included.
 
-## Workflow Safety
+## Rating
 
-Diagrams show inputs, review points, receipts, guarded boundary, rollback readiness, and public/private separation. They do not show adapter internals, endpoints, credentials, or production runbooks.
+READY AFTER FAITH REVIEW

@@ -1,7 +1,10 @@
+
 flowchart LR
-  A["Owner Intent"] --> B["Local Session"]
-  B --> C["Review Surface"]
-  C --> D["Receipt"]
-  D --> E["Guarded Boundary"]
-  E --> F["Rollback Ready"]
-  F --> G["Public-Safe Output"]
+  User["Faith / operator / phone"] --> Intake["OpenClaw or desktop intake"]
+  Intake --> Fantasia["Fantasia conductor"]
+  Fantasia --> Observe["Observe local worksite"]
+  Observe --> Recommend["Recommend start, stop, pause, reassign"]
+  Recommend --> Review["Operator review and authority lease"]
+  Review --> Workers["Local workers and GitTools"]
+  Workers --> Receipts["Audit receipts and rollback notes"]
+  Receipts --> Public["Public project surface"]

@@ -1,89 +1,66 @@
-# Fantasia GitHubify Receipt
 
-## Project
+# Receipt
 
-Fantasia
+- Project name: Fantasia
+- Base slug: fantasia
+- Chosen repository slug: fantasia
+- Version status: existing public repository refresh; no v2 created because the existing Fantasia repository is the target
+- Repository URL: https://github.com/thefayth/fantasia
+- Export generated at: 2026-06-19T03:58:53.019Z
 
-## Repository
+## Files Created
 
-`thefayth/fantasia`
-
-Repository URL: `https://github.com/thefayth/fantasia`
-
-## Summary
-
-Fantasia was prepared and pushed as a professional public-facing GitHub repository while keeping the private engine protected. The public surface explains the project, ownership, purpose, current status, workflow, public/private boundary, visual direction, and WordPress draft path.
-
-## GitHub Push Status
-
-Status: `pushed-to-public-docs-repo`
-
-Live file verification was completed through the GitHub connector after publishing. The final receipt commit is visible in the GitHub repository history.
-
-Verified live via GitHub connector:
-
-- `NOTICE.md`
-- `docs/PRODUCT_SCREENSHOTS.md`
-- `assets/banners/github-repo-banner.svg`
-- `wordpress/page.md`
-
-## Files Created Or Prepared
-
-- `README.md`
-- `LICENSE.md`
-- `NOTICE.md`
-- `SECURITY.md`
-- `TRADEMARKS.md`
-- `CONTRIBUTING.md`
-- `docs/PROJECT_BRIEF.md`
-- `docs/STATUS.md`
-- `docs/ROADMAP.md`
-- `docs/FAQ.md`
-- `docs/PUBLIC_PRIVATE_BOUNDARY.md`
-- `docs/COMMERCIAL_USE_POLICY.md`
-- `docs/WORKFLOW_DIAGRAMS.md`
-- `docs/IMAGE_BRIEF.md`
-- `docs/BRAND_STYLE_NOTES.md`
-- `docs/WORDPRESS_PAGE_DRAFT.md`
-- `docs/PRIVACY_REVIEW.md`
-- `docs/LAUNCH_CHECKLIST.md`
-- `assets/diagrams/workflow-overview.mmd`
-- `assets/diagrams/public-private-boundary.mmd`
-- `assets/diagrams/workflow-overview.svg`
-- `assets/diagrams/public-private-boundary.svg`
-- `assets/banners/github-repo-banner.svg`
-- `assets/banners/project-icon.svg`
-- `assets/banners/wordpress-featured-image.svg`
-- `assets/social/social-preview-card.svg`
-- `assets/image-prompts/public-safe-image-prompts.md`
-- `wordpress/page.md`
-- `wordpress/meta.md`
+- README.md
+- LICENSE.md
+- NOTICE.md
+- SECURITY.md
+- TRADEMARKS.md
+- CONTRIBUTING.md
+- STATUS.md
+- LAUNCH_CHECKLIST.md
+- RECEIPT.md
+- docs/*
+- assets/*
+- wordpress/*
+- website-demo/faithcheltenham-fantasia/index.html
 
 ## Files Excluded
 
-- Fantasia core source.
-- FVE production adapters.
-- COAI publishing internals.
-- private prompts and agent instructions.
-- credentials, tokens, app passwords, signing material, and private URLs.
-- customer data, legal/admin records, medical records, family information, and operational infrastructure.
+- source code
+- private queues
+- private telemetry
+- credentials and tokens
+- raw coursework
+- private receipts
+- deployment systems
+- local package binaries
+- unpublished sensitive material
 
-## Image Status
+## Selected Visuals
 
-Use real screenshots only for product views. Diagrams are labeled as diagrams. Public-safe banner/social assets are branded explanation graphics, not fake UI.
+- assets/hero/hero-image.png from apps/fantasia-desktop/public/fantasia-conductor.png
+- assets/banners/github-banner.png from apps/fantasia-desktop/public/brand/fantasia-readme-cover.png
+- assets/social/social-card.png from apps/fantasia-desktop/public/brand/fantasia-github-social-card.png
+- assets/icons/project-icon.png from apps/fantasia-desktop/public/fantasia-icon-512.png
+- assets/gallery/magic-hand-icon-source.png from apps/fantasia-desktop/public/fantasia-magic-hand-source.png
+- assets/gallery/fantasia-launch-slide-01.png from apps/fantasia-desktop/public/brand/fantasia-launch-slide-01.png
+- assets/gallery/fantasia-launch-slide-02.png from apps/fantasia-desktop/public/brand/fantasia-launch-slide-02.png
+- assets/gallery/fantasia-launch-slide-03.png from apps/fantasia-desktop/public/brand/fantasia-launch-slide-03.png
+- assets/gallery/fantasia-launch-slide-04.png from apps/fantasia-desktop/public/brand/fantasia-launch-slide-04.png
+- assets/gallery/fantasia-launch-slide-05.png from apps/fantasia-desktop/public/brand/fantasia-launch-slide-05.png
 
 ## Workflow Status
 
-Workflow diagrams are public-safe and avoid endpoint names, adapter internals, and private architecture.
+Workflow overview and public/private boundary diagrams were created in Mermaid and SVG formats.
 
 ## WordPress Status
 
-Draft only. Suggested path: `/projects/fantasia/`. No WordPress publish was performed.
+Draft page and metadata were created under wordpress/.
 
 ## Privacy Status
 
-`READY AFTER FAITH REVIEW`
+READY AFTER FAITH REVIEW.
 
-## Recommended Next Action
+## GitHub Status
 
-Faith should review final visuals, confirm Google Drive external sharing, and decide whether to add a public homepage URL to the GitHub repository.
+GitHub push was not performed by this generator. In the current Codex session, gh auth reported an invalid token and API access failed through the local proxy. After auth is repaired, push from _github_public_export only.

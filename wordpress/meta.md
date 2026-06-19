@@ -1,17 +1,12 @@
-# Fantasia WordPress Meta
 
-Suggested path: `/projects/fantasia/`
+# WordPress Metadata
 
-Title: `Fantasia | Local-First AI Operations Desktop`
-
-Slug: `fantasia`
-
-SEO title: `Fantasia - Local-First AI Operations Desktop by Faith Cheltenham`
-
-Meta description: `Fantasia is a local-first AI operations desktop for safe creative automation, FVE website visual workflows, receipts, rollback, and guarded publishing readiness.`
-
-Social description: `AI work needs memory, receipts, and brakes. Fantasia gives local-first automation a command room.`
-
-Featured image recommendation: use a real Fantasia desktop screenshot or branded workflow banner; do not use fake app UI.
-
-Alt text: `Fantasia desktop command center showing local-first AI operations, website visual workflow controls, receipts, and guarded publishing readiness.`
+- Title: Fantasia
+- Slug: projects/fantasia
+- Suggested path: /projects/fantasia/
+- SEO title: Fantasia - Local-First AI Operations Conductor
+- Meta description: Fantasia is Faith Cheltenham's local-first AI operations conductor for agent workflows, review packets, phone handoffs, GitTools, and receipts.
+- Social description: Public surface. Private engine. Receipts always.
+- Featured image: assets/hero/hero-image.png
+- Featured image alt: Fantasy conductor representing Fantasia directing local AI workflows.
+- Canonical project URL: https://faithcheltenham.com/projects/fantasia/

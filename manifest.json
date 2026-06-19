@@ -1,0 +1,229 @@
+{
+  "schema": "fantasia.github-public-export.v1",
+  "generated_at": "2026-06-19T03:58:53.019Z",
+  "project": {
+    "name": "Fantasia",
+    "baseSlug": "fantasia",
+    "chosenSlug": "fantasia",
+    "repositoryUrl": "https://github.com/thefayth/fantasia",
+    "homepage": "https://faithcheltenham.com/projects/fantasia/",
+    "owner": "Faith Cheltenham / XXYYZZ Society LLC"
+  },
+  "privacy_status": "READY AFTER FAITH REVIEW",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 33,
+      "sha256": "AC0056C83E47DC5DFBF92355C95314E90366BE2EF7E5514877AB241E2649E6AE"
+    },
+    {
+      "path": "assets/banners/github-banner.png",
+      "bytes": 1781978,
+      "sha256": "715467AF86C1E87D7749CBDED1D37DAF6AC5A5CAF26A8F507CBD44D73614A398"
+    },
+    {
+      "path": "assets/diagrams/public-private-boundary.mmd",
+      "bytes": 690,
+      "sha256": "B4D73B83163EC8594640205CDA03C16236AED83A67009F06FCBE7F4FB8AF0D24"
+    },
+    {
+      "path": "assets/diagrams/public-private-boundary.svg",
+      "bytes": 1977,
+      "sha256": "A34471ADE0466895C6810F0CF966D8725BC3BE019219D0E91812BBC684BFFECA"
+    },
+    {
+      "path": "assets/diagrams/workflow-overview.mmd",
+      "bytes": 470,
+      "sha256": "A4FD4721F613D8F5782DDAFABA38B1F47A27111B40D44A0A5998E8E0B65C7A2B"
+    },
+    {
+      "path": "assets/diagrams/workflow-overview.svg",
+      "bytes": 3116,
+      "sha256": "2053E27E747F57F38D698D8498770865901CE56695236138BC99A79EABDAC109"
+    },
+    {
+      "path": "assets/gallery/fantasia-launch-slide-01.png",
+      "bytes": 1769696,
+      "sha256": "7244DC10EFB105506FE56017DBDD0B923110185FF3723823553B80BAABA7C11F"
+    },
+    {
+      "path": "assets/gallery/fantasia-launch-slide-02.png",
+      "bytes": 1771667,
+      "sha256": "774320124DDE030273B72E50526C95A3DB237750F84118A0B783DC9EE9FB2D91"
+    },
+    {
+      "path": "assets/gallery/fantasia-launch-slide-03.png",
+      "bytes": 1772217,
+      "sha256": "B6C91615981ADABFB7080766705D4F4350E49A0CC18B43624BD96BF85DB7936A"
+    },
+    {
+      "path": "assets/gallery/fantasia-launch-slide-04.png",
+      "bytes": 1772167,
+      "sha256": "F629FBDB02D0270C352303AE0133D6234AC02300CF1169B3975EB1D2AED57130"
+    },
+    {
+      "path": "assets/gallery/fantasia-launch-slide-05.png",
+      "bytes": 1773407,
+      "sha256": "F7DC53434729CF4D50ED49179C9F64499E73923CC36E62CAAD5C9E4E13DAA2CE"
+    },
+    {
+      "path": "assets/gallery/magic-hand-icon-source.png",
+      "bytes": 1608724,
+      "sha256": "C1F2ED727C515FC7CBAF802D473C8CD963DD34BB24428BF3CEE3368504AF6A13"
+    },
+    {
+      "path": "assets/hero/hero-image.png",
+      "bytes": 2573829,
+      "sha256": "3B68EFA403CF9D2ADAF286C71125D5964C0D55608C2E34852AFB622D1B8038AF"
+    },
+    {
+      "path": "assets/icons/project-icon.png",
+      "bytes": 687327,
+      "sha256": "5BB8F1F64403C811B6001DEB20E2BBA3F9FAF05705BBBDEDC64A11421B4E0A32"
+    },
+    {
+      "path": "assets/image-prompts/fantasia-visual-prompts.md",
+      "bytes": 3123,
+      "sha256": "BF4ACDDA014E9703283EC19E78795A4EF211A3BB69643A7830C6CDDC76785F43"
+    },
+    {
+      "path": "assets/social/social-card.png",
+      "bytes": 957589,
+      "sha256": "87DD4FEE8AD35661FFE7934473CD8F2F7B4363110E70C96DE8701B8C156562B1"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 343,
+      "sha256": "23485185A57CF297E70DC49B13415015FBEEF2C61D4379C44441D8F9DC4B457D"
+    },
+    {
+      "path": "docs/BRAND_STYLE_NOTES.md",
+      "bytes": 492,
+      "sha256": "12B3F004587F2DEAE951A9B214CE7CB699EE30C65E94A26B9458E209C38DD5DD"
+    },
+    {
+      "path": "docs/CANVA_ASSET_PLAN.md",
+      "bytes": 3123,
+      "sha256": "BF4ACDDA014E9703283EC19E78795A4EF211A3BB69643A7830C6CDDC76785F43"
+    },
+    {
+      "path": "docs/COMMERCIAL_USE_POLICY.md",
+      "bytes": 259,
+      "sha256": "0D0D9C68130A486ACFA79878B6F3EED739093AC852BF1A1338BA6F32436F8070"
+    },
+    {
+      "path": "docs/FAQ.md",
+      "bytes": 771,
+      "sha256": "B98265031B17349CEB18BE0E60143AC8A4D79F0C5EB913ABCEC3904D04D98C67"
+    },
+    {
+      "path": "docs/IMAGE_ASSET_AUDIT.md",
+      "bytes": 2362,
+      "sha256": "3CDE4F539D6AE6BE4BE715F229CC1E0CEA72D29877EEEF0978D84F54B5FB8187"
+    },
+    {
+      "path": "docs/LAUNCH_CHECKLIST.md",
+      "bytes": 695,
+      "sha256": "187C3E086178E95A94C182ADBB8EAAE33305FD2865D02547C1283D34D696C55D"
+    },
+    {
+      "path": "docs/PRIVACY_REVIEW.md",
+      "bytes": 1290,
+      "sha256": "59113301D1BB49F758FF81CAC36017DC64928A2171ED7B5E4995FB336CA8907C"
+    },
+    {
+      "path": "docs/PROJECT_BRIEF.md",
+      "bytes": 1114,
+      "sha256": "974E347FD4DB35F24A414FCD0E05C609D89057B6291CCB2159427254ABC6615E"
+    },
+    {
+      "path": "docs/PUBLIC_PRIVATE_BOUNDARY.md",
+      "bytes": 785,
+      "sha256": "BDDF1816553261AD3CB8A0D95553B6737A68B272A58A1359D03904B97E13F255"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 665,
+      "sha256": "F1E10B8B8F608A142A2C0E12A0A6C677EEED385EE66FB103B42DF53888B09120"
+    },
+    {
+      "path": "docs/STATUS.md",
+      "bytes": 1234,
+      "sha256": "A80B1A7A5DF4E6006D0916C2199718B6BFE01036166E216C5961FB9FF2C52B22"
+    },
+    {
+      "path": "docs/WORDPRESS_PAGE_DRAFT.md",
+      "bytes": 1938,
+      "sha256": "2237FBCD49A1CD8595272ACE4B6F946CDC5EA132DDED7B0B9E41288F5B8AC204"
+    },
+    {
+      "path": "docs/WORKFLOW_DIAGRAMS.md",
+      "bytes": 596,
+      "sha256": "9F4E4F98A724ED4A7FBCA36EE782BDD067D68DE5874F3670C32D1BFD6DE55639"
+    },
+    {
+      "path": "LAUNCH_CHECKLIST.md",
+      "bytes": 695,
+      "sha256": "187C3E086178E95A94C182ADBB8EAAE33305FD2865D02547C1283D34D696C55D"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 525,
+      "sha256": "E41DF93A73BFC81CF7A139A7F5B44B291D1000F36FD0D2318A754EA7C62CF816"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 389,
+      "sha256": "CA7CB09DA2B35DAEBBC11BD8D8FEAE67981B6C13F7F5437978384D2132FF0A73"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4146,
+      "sha256": "8F07EA00D5012F446C067E8C62FC387B7A2904E7213285E3F2DCAEF7368391DC"
+    },
+    {
+      "path": "RECEIPT.md",
+      "bytes": 2333,
+      "sha256": "EB7991DACDD442F69BD2E33A3254597E93F48E88B5D65489E2A8118DC642DE22"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 419,
+      "sha256": "B9F27B78C5E1447628DCA2498ED59E1E58EBD6124BE84AEBC9505307C20058E8"
+    },
+    {
+      "path": "STATUS.md",
+      "bytes": 1234,
+      "sha256": "A80B1A7A5DF4E6006D0916C2199718B6BFE01036166E216C5961FB9FF2C52B22"
+    },
+    {
+      "path": "TRADEMARKS.md",
+      "bytes": 237,
+      "sha256": "7237FF5650613E438C5189310A97CDAC8D4840615AB399A1D7A6EE45FFF033FE"
+    },
+    {
+      "path": "website-demo/faithcheltenham-fantasia/index.html",
+      "bytes": 2190,
+      "sha256": "08D2522C92EF89ADC4DDFE3DC1C5984946DBF88EF9C957C96C74230F0D5827DA"
+    },
+    {
+      "path": "wordpress/meta.md",
+      "bytes": 609,
+      "sha256": "2648D9E4B4A7EA4D27AD57A83AF4D90F4298ED580DABBF1B02D7282760E75D33"
+    },
+    {
+      "path": "wordpress/page.md",
+      "bytes": 1938,
+      "sha256": "2237FBCD49A1CD8595272ACE4B6F946CDC5EA132DDED7B0B9E41288F5B8AC204"
+    }
+  ],
+  "excluded": [
+    "tools/fantasia/private/**",
+    "bus/*.queue.jsonl",
+    "private telemetry and state logs",
+    "raw coursework",
+    "source code",
+    "credentials and tokens",
+    "private project workspaces"
+  ]
+}

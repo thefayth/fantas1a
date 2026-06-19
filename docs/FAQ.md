@@ -1,29 +1,22 @@
+
 # FAQ
 
-## What is Fantasia?
+## Is Fantasia open source?
 
-Fantasia is a local-first AI operations desktop for safe creative automation, website visual work, receipts, rollback, and guarded publishing readiness.
+No. This repository is a public project surface, not a source release.
 
-## Is this the full source code?
+## Can I use the code?
 
-No. This repository is a protected public project surface. It is not the full source code, operational system, private workflow, or data room.
+No code license is granted. Commercial or technical access requires written permission.
 
-## Can I use the code commercially?
+## Does Fantasia expose private systems?
 
-No public commercial use permission is granted. Commercial access requires written permission or a signed agreement with XXYYZZ Society LLC.
+No. The public package excludes private source, queues, telemetry, credentials, raw coursework, private archives, and operational infrastructure.
 
-## Can this repository be used for AI training?
+## Is Fantasia local-first?
 
-No permission is granted for model training, dataset ingestion, redistribution, or derivative commercial reuse.
+Yes. The product is designed around local control, loopback/private access, audit receipts, and explicit authority for higher-risk actions.
 
-## Why are some visuals diagrams instead of screenshots?
+## What is the relationship to FaithCheltenham.com?
 
-Screenshots are used when they reflect the actual current product. Diagrams are used only to explain public-safe workflows without exposing implementation details.
-
-## Does Fantasia publish directly to WordPress?
-
-The public story is that publishing remains guarded. Fantasia/FVE workflows are designed around review, receipts, rollback, and protected publish boundaries.
-
-## What remains private?
-
-Source code, prompts, agent instructions, credentials, secrets, private workflows, unpublished creative work, customer data, legal/admin records, medical records, family information, deployment systems, and operational infrastructure.
+FaithCheltenham.com is the intended public project page surface. This export includes a WordPress page draft and metadata for that site.

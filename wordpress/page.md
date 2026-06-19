@@ -1,38 +1,58 @@
+
 # Fantasia
 
-Fantasia gives AI work a command room.
+## Hero
 
-Local-first automation for builders who need website visual work, receipts, rollback, and guarded publishing readiness without losing control.
+Fantasia is a local-first AI operations conductor for managing agents, work queues, phone handoffs, local services, and creative automation with receipts and authority boundaries.
+
+Featured image: assets/hero/hero-image.png
 
 ## What This Project Is
 
-Fantasia is a desktop operations layer for practical AI work. It helps organize local sessions, review queues, FVE website image workflows, receipts, and guarded publishing readiness.
+Fantasia is a desktop-centered operations manager for AI work. It helps Faith coordinate local workers, review packets, OpenClaw phone commands, GitTools, and project traffic without exposing private systems.
 
 ## Why It Matters
 
-AI work needs more than chat. It needs visible state, owner control, proof of what happened, and safe boundaries before production changes.
+AI work gets risky when agents act without context, receipts, or clear authority. Fantasia turns that chaos into visible workflow: observe, recommend, route, verify, and archive.
 
 ## How It Works
 
-1. Owner intent starts the flow.
-2. Local work runs in a visible session.
-3. Results move through review.
-4. Receipts preserve what happened.
-5. Guarded boundaries protect publishing.
-6. Rollback stays ready.
+Use the workflow diagram from assets/diagrams/workflow-overview.svg.
+
+## Project Highlights
+
+- Local-first desktop conductor
+- Operator Inbox and Dev Queue
+- OpenClaw phone lane
+- GitTools and Tool Doctor visibility
+- AI Desk review packets
+- Public surface, private engine
+- All-rights-reserved ownership posture
+
+## Current Status
+
+Functional local v1. Public repository is a docs-first surface. Private engine remains protected.
+
+## Visual Gallery
+
+Use the hero, GitHub banner, social card, icon, magic hand, and launch slides in assets/gallery.
 
 ## Public Materials
 
-- GitHub repository.
-- Product brief.
-- Workflow diagrams.
-- Brand notes.
-- Investor/share-pack links.
+README, project brief, workflow diagrams, status, roadmap, FAQ, commercial-use policy, and privacy review.
 
 ## Protected Materials
 
-The private engine, source code, prompts, agent instructions, credentials, customer data, deployment systems, and operational infrastructure remain protected.
+Source code, private queues, telemetry, raw receipts, credentials, private archives, raw coursework, unpublished creative/admin/legal/medical/family materials, and deployment systems.
 
-## Ownership
+## Relationship To Faith's Ecosystem
 
-Fantasia is created by Faith Cheltenham and commercially owned/licensed through XXYYZZ Society LLC. All rights reserved.
+Fantasia is the conductor layer for Faith's local AI command center and connected projects. It helps keep work visible, reversible, and owned.
+
+## Ownership Statement
+
+Fantasia is owned by Faith Cheltenham / XXYYZZ Society LLC. All rights reserved.
+
+## Learn More
+
+Repository: https://github.com/thefayth/fantasia
