@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Fantasia GitHub repository banner</title>
+  <desc id="desc">A public-safe branded banner for Fantasia showing the product promise without fake interface screens.</desc>
+  <rect width="1600" height="520" fill="#171414"/>
+  <rect x="56" y="56" width="1488" height="408" rx="22" fill="#211b1c" stroke="#b68b4a" stroke-opacity=".45"/>
+  <rect x="104" y="104" width="116" height="116" rx="18" fill="#7b2638" stroke="#b68b4a" stroke-width="4"/>
+  <text x="162" y="186" text-anchor="middle" fill="#fffdf8" font-family="Georgia, serif" font-size="78" font-weight="700">F</text>
+  <text x="264" y="144" fill="#f3dfa2" font-family="Inter, Segoe UI, sans-serif" font-size="20" font-weight="900" letter-spacing="4">XXYYZZ SOCIETY LLC / THEFAYTH</text>
+  <text x="264" y="222" fill="#fffdf8" font-family="Inter, Segoe UI, sans-serif" font-size="72" font-weight="900">Fantasia</text>
+  <text x="264" y="276" fill="#eadfd5" font-family="Inter, Segoe UI, sans-serif" font-size="28">Local-first AI operations desktop for receipts, rollback, review, and guarded publishing readiness.</text>
+  <g font-family="Inter, Segoe UI, sans-serif" font-size="22" font-weight="800">
+    <rect x="264" y="334" width="152" height="48" rx="24" fill="#fffdf8"/><text x="340" y="366" text-anchor="middle" fill="#171414">Local</text>
+    <rect x="436" y="334" width="168" height="48" rx="24" fill="#fffdf8"/><text x="520" y="366" text-anchor="middle" fill="#171414">Review</text>
+    <rect x="624" y="334" width="174" height="48" rx="24" fill="#fffdf8"/><text x="711" y="366" text-anchor="middle" fill="#171414">Receipts</text>
+    <rect x="818" y="334" width="186" height="48" rx="24" fill="#2f7a5f"/><text x="911" y="366" text-anchor="middle" fill="#fffdf8">Guarded</text>
+    <rect x="1024" y="334" width="188" height="48" rx="24" fill="#b68b4a"/><text x="1118" y="366" text-anchor="middle" fill="#171414">Rollback</text>
+  </g>
+  <text x="1450" y="434" text-anchor="end" fill="#eadfd5" font-family="Inter, Segoe UI, sans-serif" font-size="18">Public surface. Private engine. Receipts always.</text>
+</svg>
