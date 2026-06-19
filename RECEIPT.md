@@ -5,8 +5,8 @@
 - Base slug: fntas1a
 - Chosen repository slug: fntas1a
 - Version status: existing public repository refresh; no v2 created because the existing F@ntas1@ repository is the target
-- Repository URL: https://github.com/thefayth/fantasia
-- Export generated at: 2026-06-19T04:42:03.249Z
+- Repository URL: https://github.com/thefayth/fantas1a
+- Export generated at: 2026-06-19T07:08:51.445Z
 
 ## Files Created
 

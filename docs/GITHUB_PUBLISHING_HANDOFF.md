@@ -3,7 +3,7 @@
 
 ## Target
 
-- Repository: https://github.com/thefayth/fantasia
+- Repository: https://github.com/thefayth/fantas1a
 - Public page: https://faithcheltenham.com/projects/fntas1a/
 - Export folder: _github_public_export
 - Publish clone: local publish clone
@@ -20,7 +20,7 @@ GitHub authentication was repaired and the public package was pushed to the exis
 
 1. Open a shell in the local publish clone.
 2. Confirm git status is clean except for the intended public-surface commit.
-3. Confirm the remote is https://github.com/thefayth/fantasia.
+3. Confirm the remote is https://github.com/thefayth/fantas1a.
 4. Run a secret scan against the publish clone.
 5. Push the normal forward commit.
 6. Verify the README, assets, workflow diagrams, docs, and ownership files render on GitHub.

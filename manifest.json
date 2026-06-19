@@ -1,11 +1,11 @@
 {
   "schema": "fntas1a.github-public-export.v1",
-  "generated_at": "2026-06-19T04:42:03.249Z",
+  "generated_at": "2026-06-19T07:08:51.445Z",
   "project": {
     "name": "F@ntas1@",
     "baseSlug": "fntas1a",
     "chosenSlug": "fntas1a",
-    "repositoryUrl": "https://github.com/thefayth/fantasia",
+    "repositoryUrl": "https://github.com/thefayth/fantas1a",
     "homepage": "https://faithcheltenham.com/projects/fntas1a/",
     "owner": "Faith Cheltenham / XXYYZZ Society LLC"
   },
@@ -134,7 +134,7 @@
     {
       "path": "docs/GITHUB_PUBLISHING_HANDOFF.md",
       "bytes": 1345,
-      "sha256": "682FFFE7AB9728CE5CA4EC5669EBFEF79C0CD734F34800224BCF55FAA2397F7D"
+      "sha256": "76A0C3A5DE6FAFAC986B8773C78BA42C78D8EBC7889EC53CFACABD5F480FFE03"
     },
     {
       "path": "docs/IMAGE_ASSET_AUDIT.md",
@@ -144,7 +144,7 @@
     {
       "path": "docs/LAUNCH_CHECKLIST.md",
       "bytes": 855,
-      "sha256": "7E260F7D7D944D82105F053667982A6F880DDA7A28E9291E76DB533A796489F5"
+      "sha256": "1EF546A99E9C88AC2D768DF05CC993644E670D0DB42EA72F04456B11465AF824"
     },
     {
       "path": "docs/PRIVACY_REVIEW.md",
@@ -174,12 +174,12 @@
     {
       "path": "docs/STATUS.md",
       "bytes": 1362,
-      "sha256": "858B0055139F8E905D891A2ECCFF93C9D0E741157ED85EFC5F7E3296E05773AC"
+      "sha256": "E27E91CDADEC11D5EB4226943EA18F3C0E8B79A00765C8D3F37B9085AF972FC6"
     },
     {
       "path": "docs/WORDPRESS_PAGE_DRAFT.md",
       "bytes": 2139,
-      "sha256": "B22155DA6598DE10B697DEB1AE54FAC3EA42F95B60F69A1D423FAC1DFB49A2C6"
+      "sha256": "3D6A9D6318D00BE76224BBF3907718BEF277AD569685C1705A0BBB4481B5B34A"
     },
     {
       "path": "docs/WORKFLOW_DIAGRAMS.md",
@@ -189,7 +189,7 @@
     {
       "path": "LAUNCH_CHECKLIST.md",
       "bytes": 855,
-      "sha256": "7E260F7D7D944D82105F053667982A6F880DDA7A28E9291E76DB533A796489F5"
+      "sha256": "1EF546A99E9C88AC2D768DF05CC993644E670D0DB42EA72F04456B11465AF824"
     },
     {
       "path": "LICENSE.md",
@@ -214,7 +214,7 @@
     {
       "path": "RECEIPT.md",
       "bytes": 1657,
-      "sha256": "7EA177FEA6191E698A66F4644816144691BFBDEAAE2776FEFB9E795DA6E65D90"
+      "sha256": "C1C0BA93585E9050F5FA73274DC59AF3E7B3BCFB62E3DCF5CFD2049D98A15096"
     },
     {
       "path": "SECURITY.md",
@@ -224,7 +224,7 @@
     {
       "path": "STATUS.md",
       "bytes": 1362,
-      "sha256": "858B0055139F8E905D891A2ECCFF93C9D0E741157ED85EFC5F7E3296E05773AC"
+      "sha256": "E27E91CDADEC11D5EB4226943EA18F3C0E8B79A00765C8D3F37B9085AF972FC6"
     },
     {
       "path": "TRADEMARKS.md",
@@ -244,7 +244,7 @@
     {
       "path": "wordpress/page.md",
       "bytes": 2139,
-      "sha256": "B22155DA6598DE10B697DEB1AE54FAC3EA42F95B60F69A1D423FAC1DFB49A2C6"
+      "sha256": "3D6A9D6318D00BE76224BBF3907718BEF277AD569685C1705A0BBB4481B5B34A"
     }
   ],
   "excluded": [

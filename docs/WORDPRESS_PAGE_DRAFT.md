@@ -60,4 +60,4 @@ F@ntas1@ is owned by Faith Cheltenham / XXYYZZ Society LLC. All rights reserved.
 
 ## Learn More
 
-Repository: https://github.com/thefayth/fantasia
+Repository: https://github.com/thefayth/fantas1a
