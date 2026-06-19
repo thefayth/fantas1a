@@ -6,6 +6,8 @@ Fantasia is created by Faith Cheltenham and commercially owned/licensed through 
 
 Fantasia is proprietary commercial software. This repository and documentation package are published for product review, investor diligence, evaluation, and public positioning only. No open-source license is granted for the Fantasia desktop app, FVE adapters, COAI publishing workflow, operator lanes, automation scripts, brand assets, source code, private receipts, or related commercial systems unless a separate signed license says otherwise.
 
+No permission is granted for model training, dataset ingestion, redistribution, commercial reuse, hosting, sublicensing, reverse engineering, or derivative commercial products.
+
 ## What You May Do
 
 - Read and review the public documentation.
@@ -15,6 +17,7 @@ Fantasia is proprietary commercial software. This repository and documentation p
 ## What You May Not Do Without Written Permission
 
 - Copy, sell, sublicense, host, redistribute, or package Fantasia or its private source code.
+- Use repository contents for model training, scraping datasets, benchmarking corpora, or generative asset datasets.
 - Use Fantasia's private workflows, adapters, receipts, brand assets, or generated product materials in a competing product.
 - Remove attribution, ownership notices, or provenance records.
 - Use private screenshots, local paths, credentials, customer data, WordPress access, COAI access, signing materials, or unpublished receipts.
