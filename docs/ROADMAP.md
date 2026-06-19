@@ -9,7 +9,7 @@
 
 ## Next
 
-- Repair GitHub auth and push this refreshed export.
+- Verify GitHub rendering after the public-surface push.
 - Publish the matching FaithCheltenham.com project page from the WordPress draft.
 - Add screenshots or demo video only after another privacy review.
 - Add a public release tag only when the export package is reviewed.

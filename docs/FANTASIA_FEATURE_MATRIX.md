@@ -18,7 +18,7 @@ This matrix represents the full Fantasia product without publishing the private 
 | Management kernel | Pepperdine-informed leadership and management reasoning | Derived locally | Project brief and privacy review |
 | Adult creator/business support | Consensual adult creative/business work is allowed in scoped local projects | Policy represented locally | This matrix and status docs |
 | Release readiness | Local manifest, privacy review, and public export checks | Implemented locally | Launch checklist, receipt, manifest |
-| GitHub surface | Protected public story, visuals, workflows, policies, and handoff docs | Ready locally, push blocked by auth | GitHub publishing handoff |
+| GitHub surface | Protected public story, visuals, workflows, policies, and handoff docs | Published after GitHub auth repair | GitHub publishing handoff |
 
 ## What This Does Not Include
 

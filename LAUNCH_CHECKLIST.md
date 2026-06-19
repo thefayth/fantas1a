@@ -21,7 +21,7 @@
 - [x] Privacy review documented
 - [x] Commercial use policy documented
 - [x] GitHub repository target recorded
-- [ ] GitHub auth repaired
-- [ ] Push refreshed export to https://github.com/thefayth/fantasia
+- [x] GitHub auth repaired
+- [x] Push refreshed export to https://github.com/thefayth/fantasia
 - [ ] Faith reviews public package
 - [ ] FaithCheltenham.com page published

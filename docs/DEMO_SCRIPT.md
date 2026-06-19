@@ -15,7 +15,7 @@ Fantasia is a local-first AI operations conductor. It watches approved local wor
 4. Show the feature matrix: desktop, operator mode, dev mode, GitTools, Tool Doctor, OpenClaw, AI Desk, MCP bridge, release readiness.
 5. Explain authority: local reversible work can move under scoped leases; high-impact work stays blocked.
 6. Explain phone support: OpenClaw results return into Fantasia so phone work does not disappear from the implementation trail.
-7. Explain GitHub readiness: the package is ready locally, but push needs GitHub auth repaired.
+7. Explain GitHub readiness: the public package has been pushed; Faith review and FaithCheltenham.com publishing are the next human-facing steps.
 
 ## Demo Boundaries
 

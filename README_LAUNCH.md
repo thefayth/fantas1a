@@ -14,10 +14,9 @@ This file is a short launch handoff for the public repository refresh.
 
 ## What Needs Human Follow-Up
 
-- Repair GitHub authentication.
-- Push the publish clone to https://github.com/thefayth/fantasia.
 - Review GitHub rendering.
 - Publish or schedule the FaithCheltenham.com project page.
+- Decide whether to add a public release tag after review.
 
 ## Boundary
 

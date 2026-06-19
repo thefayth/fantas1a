@@ -6,10 +6,10 @@
 - Chosen repository slug: fantasia
 - Repository URL: https://github.com/thefayth/fantasia
 - Version status: existing public repository refresh, not a new v2 repository
-- Public surface status: refreshed locally in _github_public_export
+- Public surface status: refreshed locally and published to GitHub after auth repair
 - Private engine status: excluded from this export
-- GitHub push status: blocked in this session because GitHub CLI auth is invalid and API access is unavailable
-- Last local export update: 2026-06-19T04:16:50.129Z
+- GitHub push status: published by normal forward commit from _github_public_publish/fantasia
+- Last local export update: 2026-06-19T04:24:51.786Z
 
 ## Current Product Representation
 

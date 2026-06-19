@@ -12,11 +12,11 @@
 
 The public package is generated locally from tools/fantasia/build-github-public-export.mjs. A publish clone is used so the existing GitHub repository history can receive a normal forward commit instead of a force push.
 
-## Push Blocker
+## Publishing Status
 
-GitHub publishing is blocked until GitHub authentication is repaired. In the latest verified session, GitHub read access worked when proxy variables were cleared, but push could not authenticate over HTTPS.
+GitHub authentication was repaired and the public package was pushed to the existing repository by normal forward commit. Future refreshes should use the same publish-clone flow instead of force-pushing over remote history.
 
-## Safe Push Path After Auth Repair
+## Safe Push Path For Future Refreshes
 
 1. Open a shell in _github_public_publish/fantasia.
 2. Confirm git status is clean except for the intended public-surface commit.
