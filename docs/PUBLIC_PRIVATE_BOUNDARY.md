@@ -4,6 +4,10 @@
 
 This boundary keeps Fantasia shareable while protecting Faith's ownership, leverage, security posture, and commercial options.
 
+Commercial entity: `XXYYZZ Society LLC`
+
+Creator/founder: `Faith Cheltenham`
+
 ## Public Surface
 
 The public GitHub repo can be used as a product home page and due-diligence surface. It may include:
