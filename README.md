@@ -51,18 +51,29 @@ See:
 - [Commercial Use Policy](docs/COMMERCIAL_USE_POLICY.md)
 - [Public / Private Boundary](docs/PUBLIC_PRIVATE_BOUNDARY.md)
 
+## Open Correctly On GitHub
+
+Use this index for links that open cleanly inside GitHub:
+
+- [Fantasia GitHub Links](docs/GITHUB_LINKS.md)
+- [FaithCheltenham Demo Folder](website-demo/faithcheltenham-fantasia/)
+- [Investor Pitch Deck Markdown](docs/INVESTOR_PITCH_DECK.md)
+- [Fantasia Brand Board Markdown](docs/FANTASIA_BRAND_BOARD.md)
+
+GitHub shows HTML files as source code by default. Use the Drive links below for visual HTML previews.
+
 ## Investor Share Pack
 
 Google Drive folder:
 
 - [Fantasia Investor Pack - 2026-06-19](https://drive.google.com/drive/folders/1U1Y4DqxW28w3nV1hJwACnqExh8ALKL_Z)
 
-Key investor files:
+Key visual/download files:
 
 - [Updated investor pack zip](https://drive.google.com/file/d/1-JutItFU37CcTG6TlfekBij_3zjaD20y/view?usp=drivesdk)
-- [Pitch deck HTML](https://drive.google.com/file/d/1Dd4AbA1hH9l0gUlP8pts_0umWx3JdZi3/view?usp=drivesdk)
-- [Brand board HTML](https://drive.google.com/file/d/1FTcDc_bMEkuA8MdaF9lBWZRDoejlo4MB/view?usp=drivesdk)
-- [FaithCheltenham WordPress demo HTML](https://drive.google.com/file/d/1HuvAF0A0bjvXE4_B8hIciLwopLoe7x1j/view?usp=drivesdk)
+- [Pitch deck HTML preview](https://drive.google.com/file/d/1Dd4AbA1hH9l0gUlP8pts_0umWx3JdZi3/view?usp=drivesdk)
+- [Brand board HTML preview](https://drive.google.com/file/d/1FTcDc_bMEkuA8MdaF9lBWZRDoejlo4MB/view?usp=drivesdk)
+- [FaithCheltenham WordPress demo HTML preview](https://drive.google.com/file/d/1HuvAF0A0bjvXE4_B8hIciLwopLoe7x1j/view?usp=drivesdk)
 
 Drive upload succeeded. General sharing may still need to be turned on in Google Drive UI if investors are outside the account's permitted domain.
 
@@ -73,6 +84,10 @@ Fantasia is in local preview. Public materials describe the working product dire
 ## Docs
 
 - [Launch README](README_LAUNCH.md)
+- [GitHub Link Index](docs/GITHUB_LINKS.md)
 - [How to Use Fantasia](docs/HOW_TO_USE_FANTASIA.md)
 - [Investor Pitch Deck](docs/INVESTOR_PITCH_DECK.md)
+- [Fantasia Brand Kit](docs/FANTASIA_BRAND_KIT.md)
+- [Fantasia Brand Board](docs/FANTASIA_BRAND_BOARD.md)
+- [Canva Design Brief](docs/CANVA_DESIGN_BRIEF.md)
 - [Drive Links](docs/DRIVE_LINKS.md)
