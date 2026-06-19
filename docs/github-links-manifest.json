@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "fantasia.github-links-manifest.v1",
+  "status": "docs-first-public-repo-commercial-boundary",
+  "recommendedRepository": "thefayth/fantasia",
+  "commercialBoundary": {
+    "commercialEntity": "XXYYZZ Society LLC",
+    "creatorFounder": "Faith Cheltenham",
+    "coreLicense": "proprietary-commercial-license-required",
+    "publicRepoPurpose": "product-review-investor-diligence-evaluation",
+    "sourceReleaseApproved": false,
+    "coreCodePublic": false
+  },
+  "driveFolderUrl": "https://drive.google.com/drive/folders/1U1Y4DqxW28w3nV1hJwACnqExh8ALKL_Z",
+  "driveSharingStatus": "uploaded-sharing-blocked-by-google-domain-policy",
+  "driveFiles": [
+    {
+      "title": "Fantasia-Investor-Pack.zip",
+      "url": "https://drive.google.com/file/d/1Y74EzQsPUgQejfi5XApCYE6BhzGULH74/view?usp=drivesdk"
+    },
+    {
+      "title": "Fantasia-Investor-Pack-2026-06-19.zip",
+      "url": "https://drive.google.com/file/d/1-JutItFU37CcTG6TlfekBij_3zjaD20y/view?usp=drivesdk"
+    },
+    {
+      "title": "Fantasia-Investor-Pitch-Deck.html",
+      "url": "https://drive.google.com/file/d/1Dd4AbA1hH9l0gUlP8pts_0umWx3JdZi3/view?usp=drivesdk"
+    },
+    {
+      "title": "Fantasia-Brand-Board.html",
+      "url": "https://drive.google.com/file/d/1FTcDc_bMEkuA8MdaF9lBWZRDoejlo4MB/view?usp=drivesdk"
+    },
+    {
+      "title": "Fantasia-GitHub-README-Draft.md",
+      "url": "https://drive.google.com/file/d/1Qdv46h2sGUaBI_FY0pDlyJkmvOnZ6_Dt/view?usp=drivesdk"
+    },
+    {
+      "title": "FaithCheltenham-Fantasia-WordPress-Demo.html",
+      "url": "https://drive.google.com/file/d/1HuvAF0A0bjvXE4_B8hIciLwopLoe7x1j/view?usp=drivesdk"
+    },
+    {
+      "title": "google-drive-share-receipt.json",
+      "url": "https://drive.google.com/file/d/14RsZofYXMBcIVAmuoWUNc8AWylUZkSzY/view?usp=drivesdk"
+    },
+    {
+      "title": "google-drive-share-receipt-final.json",
+      "url": "https://drive.google.com/file/d/1T6soSzhTj-_fLcTmrE7lL0wV5v-MkDxp/view?usp=drivesdk"
+    }
+  ],
+  "localFilesForGitHub": [
+    "docs/fantasia/README_PUBLIC_DRAFT.md",
+    "docs/fantasia/LICENSE.md",
+    "docs/fantasia/COMMERCIAL_USE_POLICY.md",
+    "docs/fantasia/PUBLIC_PRIVATE_BOUNDARY.md",
+    "docs/fantasia/HOW_TO_USE_FANTASIA.md",
+    "docs/fantasia/INVESTOR_PITCH_DECK.md",
+    "docs/fantasia/INVESTOR_PITCH_DECK.html",
+    "docs/fantasia/brand-kit/FANTASIA_BRAND_KIT.md",
+    "docs/fantasia/brand-kit/fantasia-brand-kit.json",
+    "docs/fantasia/brand-kit/fantasia-brand-board.html",
+    "docs/fantasia/CANVA_DESIGN_BRIEF.md",
+    "fayth-visual-engine/sites/faithcheltenham/fantasia/index.html"
+  ],
+  "notes": [
+    "GitHub repo thefayth/fantasia exists and should remain docs-first until Faith approves a separate source release.",
+    "Commercial licensing should route through XXYYZZ Society LLC while preserving Faith Cheltenham as creator/founder.",
+    "Fantasia core, FVE production adapters, COAI publishing internals, credentials, code-signing material, and private receipts remain private/proprietary.",
+    "Google Drive upload succeeded. Connector sharing failed because the account does not expose a valid company domain for anyone-at-company sharing."
+  ]
+}
