@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Fantasia public private boundary</title>
+  <desc id="desc">Public-safe diagram showing what belongs in the public repository versus what remains in the private engine.</desc>
+  <rect width="1280" height="520" fill="#f3eadf"/>
+  <text x="64" y="72" fill="#171414" font-family="Inter, Segoe UI, sans-serif" font-size="36" font-weight="900">Public Surface / Private Engine</text>
+  <text x="64" y="108" fill="#615b55" font-family="Inter, Segoe UI, sans-serif" font-size="18">Ownership marker, product explanation, and proof of maturity without exposing protected systems.</text>
+  <rect x="64" y="158" width="520" height="260" rx="14" fill="#fffdf8" stroke="#ddcfc0"/>
+  <rect x="696" y="158" width="520" height="260" rx="14" fill="#171414" stroke="#b68b4a"/>
+  <text x="104" y="210" fill="#7b2638" font-family="Inter, Segoe UI, sans-serif" font-size="28" font-weight="900">Public Repo</text>
+  <text x="736" y="210" fill="#fffdf8" font-family="Inter, Segoe UI, sans-serif" font-size="28" font-weight="900">Private Engine</text>
+  <g font-family="Inter, Segoe UI, sans-serif" font-size="19">
+    <text x="104" y="258" fill="#171414">Project story</text>
+    <text x="104" y="298" fill="#171414">Workflow diagrams</text>
+    <text x="104" y="338" fill="#171414">Safe screenshots</text>
+    <text x="104" y="378" fill="#171414">Ownership docs</text>
+    <text x="736" y="258" fill="#eadfd5">Source code</text>
+    <text x="736" y="298" fill="#eadfd5">Prompts and agents</text>
+    <text x="736" y="338" fill="#eadfd5">Credentials and adapters</text>
+    <text x="736" y="378" fill="#eadfd5">Customer and operational data</text>
+  </g>
+  <path d="M602 288h76" stroke="#b68b4a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M660 268l24 20-24 20" fill="none" stroke="#b68b4a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="640" y="468" text-anchor="middle" fill="#615b55" font-family="Inter, Segoe UI, sans-serif" font-size="17">Default posture: all rights reserved, no public license, no training use, no redistribution, no commercial reuse.</text>
+</svg>
