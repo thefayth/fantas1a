@@ -64,6 +64,7 @@ Deliverables may include:
 ## Contact
 
 Portfolio and offer overview: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+Buyer FAQ: [Buyer FAQ](https://thefayth.github.io/faith-ai-systems-portfolio/buyer-faq.html)
 Pilot sprint menu: [Pilot Sprint Menu](https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html)
 Public proof index: [Public Proof Index](https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html)
 Referral and introduction kit: [Referral And Introduction Kit](https://thefayth.github.io/faith-ai-systems-portfolio/referral-introduction-kit.html)
