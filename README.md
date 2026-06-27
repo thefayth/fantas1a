@@ -109,6 +109,7 @@ Faith offers quote-first local AI workflow setup, FVE website visual operations,
 
 - Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
 - Portfolio and offers: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+- Public proof index: [Public Proof Index](https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-index.html)
 - Referral and introduction kit: [Referral And Introduction Kit](https://thefayth.github.io/faith-ai-systems-portfolio/referral-introduction-kit.html)
 - Request scope guide: [Request Scope](https://thefayth.github.io/faith-ai-systems-portfolio/scope-request.html)
 - Investor or partner brief: [Investor And Partner Brief](https://thefayth.github.io/faith-ai-systems-portfolio/investor-partner-brief.html)
