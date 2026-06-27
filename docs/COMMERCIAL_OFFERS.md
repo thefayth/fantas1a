@@ -63,5 +63,6 @@ Deliverables may include:
 
 ## Contact
 
-Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
+Portfolio and offer overview: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
 
+Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
