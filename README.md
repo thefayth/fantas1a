@@ -99,7 +99,16 @@ F@ntas1@ is a functional local v1 and protected public project surface. The curr
 - [GitHub Publishing Handoff](docs/GITHUB_PUBLISHING_HANDOFF.md)
 - [WordPress Page Draft](wordpress/page.md)
 
-Public web destination draft: [FaithCheltenham.com/projects/fntas1a](https://faithcheltenham.com/projects/fntas1a/)
+Public web destination draft after WordPress publish: [FaithCheltenham.com/projects/fantasia](https://faithcheltenham.com/projects/fantasia/)
+
+Active contact path: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
+
+## Work With Faith
+
+Faith offers quote-first local AI workflow setup, FVE website visual operations, GitHub/public surface packaging, AI brand system audits, and protected-file/provenance consulting.
+
+- Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
+- Ask about licensing or partnership: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
 
 ## Ownership
 
