@@ -4,6 +4,8 @@ Faith Cheltenham offers quote-first work for builders, founders, small teams, an
 
 Primary contact: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
 
+Portfolio and offer overview: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+
 ## Best-Fit Engagements
 
 ### Local AI Workflow Setup
@@ -50,4 +52,3 @@ Do not send passwords, app passwords, API keys, signed URLs, private records, or
 ## Commercial Boundary
 
 This public repository does not grant a license to Fantasia's private desktop source, adapters, queue state, workflows, prompts, credentials, or reusable systems. Any paid engagement, licensing, or partnership must be agreed in writing.
-
