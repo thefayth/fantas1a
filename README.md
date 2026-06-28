@@ -109,6 +109,8 @@ Faith offers quote-first local AI workflow setup, FVE website visual operations,
 
 - Request a scoped project: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
 - Portfolio and offers: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+- Work with Faith: [Work With Faith](https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html)
+- Public prospect packet: [Prospect Packet](https://thefayth.github.io/faith-ai-systems-portfolio/prospect-packet.html)
 - Sample deliverables: [Sample Deliverables](https://thefayth.github.io/faith-ai-systems-portfolio/sample-deliverables.html)
 - Buyer FAQ: [Buyer FAQ](https://thefayth.github.io/faith-ai-systems-portfolio/buyer-faq.html)
 - Pilot sprint menu: [Pilot Sprint Menu](https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html)

@@ -5,6 +5,8 @@ Faith Cheltenham offers quote-first work for builders, founders, small teams, an
 Primary contact: [FaithCheltenham.com/contact](https://faithcheltenham.com/contact/)
 
 Portfolio and offer overview: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+Work with Faith: [Work With Faith](https://thefayth.github.io/faith-ai-systems-portfolio/work-with-faith.html)
+Public prospect packet: [Prospect Packet](https://thefayth.github.io/faith-ai-systems-portfolio/prospect-packet.html)
 Sample deliverables: [Sample Deliverables](https://thefayth.github.io/faith-ai-systems-portfolio/sample-deliverables.html)
 Buyer FAQ: [Buyer FAQ](https://thefayth.github.io/faith-ai-systems-portfolio/buyer-faq.html)
 Pilot sprint menu: [Pilot Sprint Menu](https://thefayth.github.io/faith-ai-systems-portfolio/pilot-sprint-menu.html)
