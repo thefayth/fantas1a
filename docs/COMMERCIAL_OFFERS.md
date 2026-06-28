@@ -64,6 +64,7 @@ Deliverables may include:
 ## Contact
 
 Portfolio and offer overview: [Faith AI Systems Portfolio](https://thefayth.github.io/faith-ai-systems-portfolio/)
+Licensing and partnership paths: [Licensing And Partnership Paths](https://thefayth.github.io/faith-ai-systems-portfolio/licensing-and-partnership-paths.html)
 Opportunity router: [Opportunity Router](https://thefayth.github.io/faith-ai-systems-portfolio/opportunity-router.html)
 Public proof snapshots: [Public Proof Snapshots](https://thefayth.github.io/faith-ai-systems-portfolio/public-proof-snapshots.html)
 Share / send kit: [Share / Send Kit](https://thefayth.github.io/faith-ai-systems-portfolio/share-send-kit.html)
